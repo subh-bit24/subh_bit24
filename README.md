@@ -109,8 +109,7 @@ Subham Kumar
 
 <p>
 📧 Email:
-<a href="https//mail.google.com/mail/:su1bh2am3456@gmail.com">su1bh2am3456@gmail.com</a>
-</a>
+<a href="https://mail.google.com/" target="_blank">Open Gmail</a></a>
 </p>
 
 <p>
