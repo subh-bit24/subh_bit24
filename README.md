@@ -142,7 +142,7 @@ Developing analytical and data-processing skills with Python.
 
 <!-- ===================== CAREER GOALS ===================== -->
 
-<h2 align="center">Career Goals</h2>
+<h2 align="center">Areas of Interest</h2>
 
 <div align="center">
 
@@ -150,7 +150,7 @@ Developing analytical and data-processing skills with Python.
 <tr>
 <td align="center" width="33%">
 
-**Data Analyst**
+**Data Analytics**
 
 Using data to identify trends, generate insights and support decision-making.
 
@@ -158,7 +158,7 @@ Using data to identify trends, generate insights and support decision-making.
 
 <td align="center" width="33%">
 
-**Business Analyst**
+**Business Intelligence**
 
 Connecting data, business problems and actionable solutions.
 
@@ -166,7 +166,7 @@ Connecting data, business problems and actionable solutions.
 
 <td align="center" width="33%">
 
-**Data Scientist**
+**Dashboard Development**
 
 Building toward advanced analytics, machine learning and predictive modelling.
 
