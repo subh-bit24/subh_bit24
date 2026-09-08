@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Subham%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst%20%7C%20Community%20Leader&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Subham%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20Data%20Analytics%20Enthusiast%20%7C%20Power BI%20Leader&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+%7C+Excel+%7C+Business+Intelligence;Turning+Data+into+Insights;Building+Skills+for+Data-Driven+Decision+Making" alt="Typing SVG" />
 
@@ -24,14 +24,7 @@
 <tr>
 <td width="65%">
 
-I am a **BCA (Data Science) student at Presidency University** with a strong interest in **Data Analytics, Business Intelligence, and Data Visualization**.
-
-Currently building expertise in **Python, SQL, Microsoft Excel, and Power BI**, with a focus on transforming raw data into meaningful insights and supporting data-driven decision making.
-
-I enjoy working with data, exploring analytical techniques, creating dashboards, and developing practical solutions to real-world business problems.
-
-Continuously learning and expanding my knowledge in analytics, reporting, and business intelligence to build a strong foundation for a career in the data domain.
-
+Data Science undergraduate at Presidency University with a strong interest in Data Analytics, Business Intelligence, and Data Visualization. Skilled in Python, SQL, Excel, and Power BI, with a focus on transforming complex datasets into actionable business insights. Passionate about leveraging data-driven solutions to support decision-making and solve real-world problems.
 </td>
 
 <td width="35%" align="center">
