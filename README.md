@@ -29,7 +29,7 @@ Data Science undergraduate at Presidency University with a strong interest in Da
 
 <td width="35%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-6c0c3b6d-9d1d-4f4f-b1b6-cf8b0eac8b2e.gif" width="320" alt="Analytics Dashboard"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-77e4d8d4-6c4f-4c3e-b7c0-7d1bce7c2f47.gif" width="320" alt="Data Analytics"/>
 
 </td>
 </td>
