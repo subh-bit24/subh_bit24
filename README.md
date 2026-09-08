@@ -28,7 +28,7 @@ Data Science undergraduate at Presidency University with a strong interest in Da
 </td>
 
 <td width="35%" align="center">
-<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="300" alt="Data Analytics"/>
+<img src="https://media.giphy.com/media/l0HlQXkh1wx1RjtUA/giphy.gif" width="300" alt="Business Intelligence"/>
 </td>
 </td>
 </tr>
