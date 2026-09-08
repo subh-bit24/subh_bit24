@@ -7,19 +7,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+%7C+Excel+%7C+Business+Intelligence;Turning+Data+into+Insights;Building+Skills+for+Data-Driven+Decision+Making" alt="Typing SVG" />
 
-<br/><br/>
 
-<a href="mailto:su1bh2am3456@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank">
-<img src="https://img.shields.io/badge/Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+<div align="center"> <table> <tr> <td align="center"> <a href="mailto:su1bh2am3456@gmail.com"> <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </td> <td width="20"></td> <td align="center"> <a href="https://www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank"> <img src="https://img.shields.io/badge/Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </td> </tr> </table> </div>
 
 ---
 
