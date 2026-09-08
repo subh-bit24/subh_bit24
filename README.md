@@ -103,14 +103,13 @@ Git • GitHub • Jupyter Notebook • Google Colab • VS Code
 <p>
 💼 LinkedIn:
 <a href="https://www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank">
-YOUR-LINKEDIN-Subham Kumar
+Subham Kumar
 </a>
 </p>
 
 <p>
 📧 Email:
 <a href="mailto:su1bh2am3456@gmail.com">su1bh2am3456@gmail.com</a>
-your-Subham Kumar
 </a>
 </p>
 
