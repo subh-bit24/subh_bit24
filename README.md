@@ -177,30 +177,36 @@ Creating interactive dashboards and compelling visual stories using Power BI, Ex
 
 <!-- ===================== GITHUB STATS ===================== -->
 
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
-<a href="https://github.com/subh-bit24">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subh-bit24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subh-bit24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<a href="https://github.com/subh-bit24">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-bit24&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-bit24&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=subh-bit24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=subh-bit24&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=subh-bit24&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
-
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 <h2 align="center">Contribution Activity</h2>
