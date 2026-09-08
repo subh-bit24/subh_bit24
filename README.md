@@ -29,7 +29,7 @@ Data Science undergraduate at Presidency University with a strong interest in Da
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="280" alt="Data Illustration"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="180"/>
 
 <br><br>
 
