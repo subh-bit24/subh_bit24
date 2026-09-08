@@ -29,17 +29,7 @@ Data Science undergraduate at Presidency University with a strong interest in Da
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320" alt="Data Analytics Dashboard"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-6c0c3b6d-9d1d-4f4f-b1b6-cf8b0eac8b2e.gif" width="320" alt="Analytics Dashboard"/>
 
 </td>
 </td>
