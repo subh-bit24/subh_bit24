@@ -29,12 +29,9 @@ Data Science undergraduate at Presidency University with a strong interest in Da
 
 <td width="35%" align="center">
 
-<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="180"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Data Analytics Dashboard"/>
 
-<br><br>
-
-<b>Python • SQL • Power BI • Excel</b>
-
+</td>
 </td>
 </tr>
 </table>
