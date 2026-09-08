@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Subham%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20Data%20Analytics%20Enthusiast%20%7C&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Subham%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20Data%20Analytics%20Enthusiast%20%7CdescAlignY=60&descSize=18&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+%7C+Excel+%7C+Business+Intelligence;Turning+Data+into+Insights;Building+Skills+for+Data-Driven+Decision+Making" alt="Typing SVG" />
 
