@@ -1,128 +1,287 @@
-<h1 align="center">Hi 👋, I'm Subham Kumar</h1>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">Data Science Student | Aspiring Data Analyst | Community Leader</h3>
+<div align="center">
 
-<p align="center">
-📊 Passionate about transforming raw data into meaningful insights through analytics, visualization, and machine learning.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Subham%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst%20%7C%20Community%20Leader&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-<hr>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+%7C+Excel+%7C+Business+Intelligence;Turning+Data+into+Insights;Building+Skills%2C+Leading+Communities%2C+Creating+Impact" alt="Typing SVG" />
 
-<h2>🎓 About Me</h2>
+<br/>
 
-<ul>
-    <li>📚 Currently pursuing my degree while building projects in Data Science, Data Analytics, and Business Intelligence.</li>
-    <li>🌱 Learning Advanced Data Analytics, Machine Learning, Power BI, Tableau, and SQL.</li>
-    <li>🎯 Goal: Become a Data Analyst / Data Scientist and create impactful data-driven solutions.</li>
-    <li>💡 Interested in Data Analytics, Machine Learning, Business Intelligence, and Community Leadership.</li>
-</ul>
+<a href="mailto:su1bh2am3456@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<hr>
-
-<h2>🚀 Technical Skills</h2>
-
-<h3>Programming & Databases</h3>
-<p>
-Python • SQL • R Programming • MySQL
-</p>
-
-<h3>Data Analysis & Visualization</h3>
-<p>
-Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Microsoft Excel
-</p>
-
-<h3>Machine Learning</h3>
-<p>
-Scikit-Learn • Regression • Classification • Data Preprocessing • Model Evaluation
-</p>
-
-<h3>Tools & Technologies</h3>
-<p>
-Git • GitHub • Jupyter Notebook • Google Colab • VS Code
-</p>
-
-<hr>
-
-<h2>📂 Featured Projects</h2>
-
-<ul>
-    <li>🔹 Customer Churn Prediction</li>
-    <li>🔹 House Price Prediction</li>
-    <li>🔹 Sales Analytics Dashboard (Power BI)</li>
-    <li>🔹 Netflix Data Analysis</li>
-    <li>🔹 COVID-19 Data Visualization</li>
-    <li>🔹 SQL Case Studies</li>
-</ul>
-
-<hr>
-
-<h2>🏆 Leadership & Volunteering</h2>
-
-<h3>National Service Scheme (NSS)</h3>
-
-<ul>
-    <li>Student Coordinator – Blood Donation Camp (500+ donors)</li>
-    <li>Led a team of 45 volunteers</li>
-    <li>Organized Swachh Bharat cleanliness drives</li>
-    <li>Conducted community outreach and awareness programs</li>
-</ul>
-
-<h3>Rotaract Club</h3>
-
-<ul>
-    <li>Former President</li>
-    <li>Organized blood donation camps, paper drives, and social impact initiatives</li>
-</ul>
-
-<hr>
-
-<h2>📜 Certifications</h2>
-
-<ul>
-    <li>Data Analytics Certifications</li>
-    <li>Power BI Certifications</li>
-    <li>Data Science Certifications</li>
-    <li>Python & SQL Certifications</li>
-</ul>
-
-<hr>
-
-<h2>📈 Current Goals</h2>
-
-<ul>
-    <li>Build impactful Data Analytics projects</li>
-    <li>Master Machine Learning concepts</li>
-    <li>Contribute to Open Source</li>
-    <li>Secure a Data Analyst / Data Scientist role</li>
-</ul>
-
-<hr>
-
-<h2>🤝 Connect With Me</h2>
-
-<p>
-💼 LinkedIn:
 <a href="https://www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank">
-Subham Kumar
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
 
-<p>
-📧 Email:
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=su1bh2am3456@gmail.com" target="_blank">
-    su1bh2am3456@gmail.com
+<a href="https://github.com/subh-bit24" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-subh--bit24-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-<p>
-🌐 Portfolio:
-<a href="https://your-portfolio-website.com" target="_blank">
-your-portfolio-website.com
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="65%">
+
+🎓 I'm a **BCA – Data Science student** at **Presidency University**.
+
+📊 I'm passionate about **Data Analytics, Business Intelligence, and Data Visualization**, with a strong interest in turning raw data into meaningful insights.
+
+🐍 Currently building my skills in **Python, SQL, Microsoft Excel, and Power BI** while exploring data-driven problem solving.
+
+🤝 Beyond academics, I have experience contributing to and leading **community initiatives through NSS and Rotaract**, including blood donation camps, cleanliness drives, and volunteer coordination.
+
+🚀 I enjoy combining **analytical thinking, leadership, communication, and problem-solving** to create meaningful impact.
+
+📚 I'm continuously learning and looking for opportunities where I can apply data to support **better decisions and real-world outcomes**.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📚 Specialization |
+|:---:|:---:|:---:|
+| **BCA** | **Presidency University** | **Data Science** |
+
+</div>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<div align="center">
+
+<h3>📊 Data Analytics & BI</h3>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 </a>
-</p>
+&nbsp;
+<a href="#">
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+</a>
+&nbsp;
 
-<hr>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<h3 align="center">
-⭐ "Data is the new oil, but insights are the real fuel."
-</h3>
+<br/><br/>
+
+<h3>💡 Core Skills</h3>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-0F2027?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-203A43?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-2C5364?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-00A8A8?style=for-the-badge&logo=target&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ===================== WHAT I DO ===================== -->
+
+<h2 align="center">📈 What I'm Working On</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📊
+### Data Analytics
+
+Exploring data cleaning, analysis, interpretation and insight generation.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+### Power BI
+
+Creating dashboards and visualizations that communicate insights clearly.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+### SQL
+
+Learning to query, organize and analyze structured datasets.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+### Python
+
+Developing analytical and data-processing skills with Python.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== CAREER GOALS ===================== -->
+
+<h2 align="center">🎯 Career Goals</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📊
+**Data Analyst**
+
+Using data to identify trends, generate insights and support decision-making.
+
+</td>
+
+<td align="center" width="33%">
+
+### 💼
+**Business Analyst**
+
+Connecting data, business problems and actionable solutions.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖
+**Data Scientist**
+
+Building toward advanced analytics, machine learning and predictive modelling.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<a href="https://github.com/subh-bit24">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subh-bit24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+</a>
+
+<a href="https://github.com/subh-bit24">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-bit24&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=subh-bit24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h2 align="center">🔥 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-bit24&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<!-- ===================== COMMUNITY LEADERSHIP ===================== -->
+
+<h2 align="center">🤝 Community & Leadership</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🩸 Blood Donation Camp
+
+Contributed to organizing a blood donation initiative, coordinating volunteers and helping create awareness around community participation.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌱 Community Drives
+
+Participated in cleanliness and social-impact initiatives through **NSS and Rotaract**, supporting volunteer coordination and community engagement.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+💡 **Leadership | Team Coordination | Communication | Community Impact**
+
+</div>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<div align="center">
+
+```text
+Python           ███████████████░░░░░
+SQL              ██████████████░░░░░░
+Power BI         █████████████░░░░░░░
+Excel            ████████████████░░░░
+Data Analytics   █████████████░░░░░░░
