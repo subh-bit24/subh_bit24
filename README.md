@@ -1,6 +1,10 @@
 <div align="center">
 
-# Subham Kumar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Subham%20Kumar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
 
 ### Data Science Undergraduate | Data Analytics Enthusiast
 
