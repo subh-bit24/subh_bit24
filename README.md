@@ -136,6 +136,8 @@ Developing analytical and data-processing skills with Python.
 
 <!-- ===================== CAREER GOALS ===================== -->
 
+<!-- ===================== AREAS OF INTEREST ===================== -->
+
 <h2 align="center">Areas of Interest</h2>
 
 <div align="center">
@@ -146,7 +148,7 @@ Developing analytical and data-processing skills with Python.
 
 **Data Analytics**
 
-Using data to identify trends, generate insights and support decision-making.
+Transforming raw data into meaningful insights through analysis, reporting, and data-driven decision-making.
 
 </td>
 
@@ -154,15 +156,15 @@ Using data to identify trends, generate insights and support decision-making.
 
 **Business Intelligence**
 
-Connecting data, business problems and actionable solutions.
+Leveraging dashboards, KPIs, and performance metrics to support strategic business objectives.
 
 </td>
 
 <td align="center" width="33%">
 
-**Dashboard Development**
+**Data Visualization**
 
-Building toward advanced analytics, machine learning and predictive modelling.
+Creating interactive dashboards and compelling visual stories using Power BI, Excel, and modern analytics tools.
 
 </td>
 </tr>
@@ -171,6 +173,7 @@ Building toward advanced analytics, machine learning and predictive modelling.
 </div>
 
 ---
+
 
 <!-- ===================== GITHUB STATS ===================== -->
 
