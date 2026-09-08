@@ -5,20 +5,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Subham%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst%20%7C%20Community%20Leader&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+%7C+Excel+%7C+Business+Intelligence;Turning+Data+into+Insights;Building+Skills%2C+Leading+Communities%2C+Creating+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+%7C+Excel+%7C+Business+Intelligence;Turning+Data+into+Insights;Building+Skills+for+Data-Driven+Decision+Making" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <a href="mailto:su1bh2am3456@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/subh-bit24" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-subh--bit24-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -27,7 +25,7 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
 
@@ -35,17 +33,13 @@
 <tr>
 <td width="65%">
 
-🎓 I'm a **BCA – Data Science student** at **Presidency University**.
+I am a **BCA (Data Science) student at Presidency University** with a strong interest in **Data Analytics, Business Intelligence, and Data Visualization**.
 
-📊 I'm passionate about **Data Analytics, Business Intelligence, and Data Visualization**, with a strong interest in turning raw data into meaningful insights.
+Currently building expertise in **Python, SQL, Microsoft Excel, and Power BI**, with a focus on transforming raw data into meaningful insights and supporting data-driven decision making.
 
-🐍 Currently building my skills in **Python, SQL, Microsoft Excel, and Power BI** while exploring data-driven problem solving.
+I enjoy working with data, exploring analytical techniques, creating dashboards, and developing practical solutions to real-world business problems.
 
-🤝 Beyond academics, I have experience contributing to and leading **community initiatives through NSS and Rotaract**, including blood donation camps, cleanliness drives, and volunteer coordination.
-
-🚀 I enjoy combining **analytical thinking, leadership, communication, and problem-solving** to create meaningful impact.
-
-📚 I'm continuously learning and looking for opportunities where I can apply data to support **better decisions and real-world outcomes**.
+Continuously learning and expanding my knowledge in analytics, reporting, and business intelligence to build a strong foundation for a career in the data domain.
 
 </td>
 
@@ -63,11 +57,11 @@
 
 <!-- ===================== EDUCATION ===================== -->
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">Education</h2>
 
 <div align="center">
 
-| 🎓 Degree | 🏫 Institution | 📚 Specialization |
+| Degree | Institution | Specialization |
 |:---:|:---:|:---:|
 | **BCA** | **Presidency University** | **Data Science** |
 
@@ -77,11 +71,11 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="center">Technical Skills</h2>
 
 <div align="center">
 
-<h3>📊 Data Analytics & BI</h3>
+<h3>Data Analytics & BI</h3>
 
 <a href="#">
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
@@ -98,7 +92,7 @@
 
 <br/><br/>
 
-<h3>💡 Core Skills</h3>
+<h3>Core Skills</h3>
 
 <img src="https://img.shields.io/badge/Data%20Analysis-0F2027?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-203A43?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
@@ -111,7 +105,7 @@
 
 <!-- ===================== WHAT I DO ===================== -->
 
-<h2 align="center">📈 What I'm Working On</h2>
+<h2 align="center">Current Focus Areas</h2>
 
 <div align="center">
 
@@ -119,7 +113,6 @@
 <tr>
 <td align="center" width="25%">
 
-### 📊
 ### Data Analytics
 
 Exploring data cleaning, analysis, interpretation and insight generation.
@@ -128,7 +121,6 @@ Exploring data cleaning, analysis, interpretation and insight generation.
 
 <td align="center" width="25%">
 
-### 📊
 ### Power BI
 
 Creating dashboards and visualizations that communicate insights clearly.
@@ -137,7 +129,6 @@ Creating dashboards and visualizations that communicate insights clearly.
 
 <td align="center" width="25%">
 
-### 🗄️
 ### SQL
 
 Learning to query, organize and analyze structured datasets.
@@ -146,7 +137,6 @@ Learning to query, organize and analyze structured datasets.
 
 <td align="center" width="25%">
 
-### 🐍
 ### Python
 
 Developing analytical and data-processing skills with Python.
@@ -161,7 +151,7 @@ Developing analytical and data-processing skills with Python.
 
 <!-- ===================== CAREER GOALS ===================== -->
 
-<h2 align="center">🎯 Career Goals</h2>
+<h2 align="center">Career Goals</h2>
 
 <div align="center">
 
@@ -169,7 +159,6 @@ Developing analytical and data-processing skills with Python.
 <tr>
 <td align="center" width="33%">
 
-### 📊
 **Data Analyst**
 
 Using data to identify trends, generate insights and support decision-making.
@@ -178,7 +167,6 @@ Using data to identify trends, generate insights and support decision-making.
 
 <td align="center" width="33%">
 
-### 💼
 **Business Analyst**
 
 Connecting data, business problems and actionable solutions.
@@ -187,7 +175,6 @@ Connecting data, business problems and actionable solutions.
 
 <td align="center" width="33%">
 
-### 🤖
 **Data Scientist**
 
 Building toward advanced analytics, machine learning and predictive modelling.
@@ -202,7 +189,7 @@ Building toward advanced analytics, machine learning and predictive modelling.
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
@@ -228,47 +215,11 @@ Building toward advanced analytics, machine learning and predictive modelling.
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-<h2 align="center">🔥 Contribution Activity</h2>
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-bit24&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<!-- ===================== COMMUNITY LEADERSHIP ===================== -->
-
-<h2 align="center">🤝 Community & Leadership</h2>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 🩸 Blood Donation Camp
-
-Contributed to organizing a blood donation initiative, coordinating volunteers and helping create awareness around community participation.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌱 Community Drives
-
-Participated in cleanliness and social-impact initiatives through **NSS and Rotaract**, supporting volunteer coordination and community engagement.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-💡 **Leadership | Team Coordination | Communication | Community Impact**
 
 </div>
 ```
