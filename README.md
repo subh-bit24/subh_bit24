@@ -29,7 +29,7 @@ Data Science undergraduate at Presidency University with a strong interest in Da
 
 <td width="35%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-bit24&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
+<img src="https://cdn.dribbble.com/users/1615584/screenshots/16432206/media/3a7e5d4c8f8a6c9c1f7d9c4b2b3a8d6e.gif" width="280" alt="Data Analytics"/>
 
 <br><br>
 
