@@ -29,7 +29,11 @@ Data Science undergraduate at Presidency University with a strong interest in Da
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-bit24&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
+
+<br><br>
+
+<b>Python • SQL • Power BI • Excel</b>
 
 </td>
 </tr>
