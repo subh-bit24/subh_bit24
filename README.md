@@ -102,15 +102,15 @@ Git • GitHub • Jupyter Notebook • Google Colab • VS Code
 
 <p>
 💼 LinkedIn:
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-YOUR-LINKEDIN-USERNAME
+<a href="www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank">
+YOUR-LINKEDIN-Subham Kumar
 </a>
 </p>
 
 <p>
 📧 Email:
-<a href="mailto:your-email@example.com">
-your-email@example.com
+<a href="mailto:su1bh2am3456@gmail.com">
+your-Subham Kumar
 </a>
 </p>
 
