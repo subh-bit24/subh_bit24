@@ -1,19 +1,16 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Subham%20Kumar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn"/>
-
-</div>
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-### Data Science Undergraduate | Data Analytics Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Subham%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20Data%20Analytics%20Enthusiast%20%&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-Turning raw data into clear, actionable insights through analysis, visualization, and business intelligence.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Python+%7C+Excel+%7C+Business+Intelligence;Turning+Data+into+Insights;Building+Skills+for+Data-Driven+Decision+Making" alt="Typing SVG" />
 
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=su1bh2am3456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-kumar-5a51b5322)
 
-</div>
+<div align="center"> <table> <tr> <td align="center"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=su1bh2am3456@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> </td> <td width="20"></td> <td align="center"> <a href="https://www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank"> <img src="https://img.shields.io/badge/Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </td> </tr> </table> </div>
 
 ---
 
