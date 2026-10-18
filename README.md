@@ -1,89 +1,90 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Subham+Kumar+%F0%9F%91%8B;Data+Analytics+%7C+Power+BI+%7C+SQL;Python+%7C+Excel+%7C+Business+Intelligence;Turning+Data+into+Insights" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Data Science Undergraduate | Data Analytics Enthusiast</b>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Subham%20Kumar&fontSize=52&fontColor=00ff9c&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20Undergraduate%20%7C%20Data%20Analytics%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=58" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open_to_work-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/role-Data_Analyst-a78bfa?style=flat-square" />
-  <img src="https://img.shields.io/badge/Presidency_University-38bdf8?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=subh-bit24&style=flat-square&color=a78bfa" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+Subham+Kumar;%24+stack+%E2%86%92+Python+%7C+SQL+%7C+Excel+%7C+Power+BI;%24+turning+data+into+insights;%24+building+skills+for+data-driven+decisions" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=su1bh2am3456@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank"><img src="https://img.shields.io/badge/Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=su1bh2am3456@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/subham-kumar-5a51b5322" target="_blank"><img src="https://img.shields.io/badge/Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=subh-bit24&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" />
 
-<details open>
-<summary><b>🙋 About Me</b></summary>
-<br>
+</div>
+
+---
+
+## 💻 about.sh
+
+```bash
+#!/bin/bash
+NAME="Subham Kumar"
+EDUCATION="BCA (Data Science) @ Presidency University"
+FOCUS=("Data Analytics" "Business Intelligence" "Data Visualization")
+TOOLS=("Python" "SQL" "Excel" "Power BI")
+GOAL="Grow into a data analyst role and turn data into strategy"
+```
 
 I'm a Data Science undergraduate at **Presidency University**, focused on Data Analytics, Business Intelligence, and Data Visualization. I work with **Python, SQL, Excel, and Power BI** to explore datasets, uncover patterns, and build dashboards that support clear, data-driven decisions.
 
 I'm currently strengthening my skills in data cleaning, exploratory analysis, and dashboard design, with the goal of growing into a data analyst role where I can turn data into strategy.
 
-</details>
+---
 
-<details>
-<summary><b>🎓 Education</b></summary>
-<br>
+## 🎓 Education
 
 | Degree | Institution | Focus Area |
 |:---|:---|:---|
 | BCA | Presidency University | Data Science |
 
-</details>
+---
 
-<details>
-<summary><b>🛠️ Technical Skills</b></summary>
-<br>
+## 🛠️ Technical Skills
 
-**Languages & Querying**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Languages & Querying**
 
-**Tools & Platforms**: ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Core Competencies**: `Data Analysis` · `Data Cleaning` · `Data Visualization` · `Business Intelligence` · `Dashboarding` · `Problem Solving`
+**Tools & Platforms**
 
-</details>
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<details>
-<summary><b>🎯 Current Focus Areas</b></summary>
-<br>
+**Core Competencies**
+
+`Data Analysis` · `Data Cleaning` · `Data Visualization` · `Business Intelligence` · `Dashboarding` · `Problem Solving`
+
+---
+
+## 🎯 Current Focus Areas
 
 - **Data Analytics**: data cleaning, exploratory analysis, and insight generation
-- **Power BI**: dashboards and visualizations that communicate insights clearly
+- **Power BI**: building dashboards and visualizations that communicate insights clearly
 - **SQL**: querying, organizing, and analyzing structured datasets
-- **Python**: analytical and data-processing workflows
+- **Python**: developing analytical and data-processing workflows
 
-</details>
+---
 
-<details>
-<summary><b>📈 GitHub Stats</b></summary>
-<br>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subh-bit24&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-bit24&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=subh-bit24&theme=midnight-purple&hide_border=true" />
-</p>
+<div align="center">
 
-</details>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subh-bit24&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-bit24&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
 
-<p align="center">
-  📫 <b>Let's connect</b>: open to data analytics roles, internships, and collaborative projects.
-</p>
+<img src="https://streak-stats.demolab.com?user=subh-bit24&theme=radical&hide_border=true&background=0d1117" />
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:38bdf8&height=90&section=footer" />
-</p>
+</div>
+
+---
+
+<div align="center">
+
+📫 **Let's connect**: open to data analytics roles, internships, and collaborative projects.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+</div>
